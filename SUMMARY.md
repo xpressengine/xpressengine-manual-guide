@@ -41,10 +41,10 @@
   * [스킨 제작 방법](component-make-guide/skin-guide.md)
   * [위젯 제작 방법](component-make-guide/widget-guide.md)
   * [모듈 제작 방법](component-make-guide/module-guide.md)
+  * [에디터 제작 방법](component-make-guide/editor-guide.md)
   * [에디터툴 제작 방법](component-make-guide/editor-tool-guide.md)
   * [UI 오브젝트 제작 방법](component-make-guide/ui-object-guide.md)
   * [토글 메뉴 제작 방법](component-make-guide/toggle-guide.md)
   * [다이나믹 필드 제작 방법](component-make-guide/dynamic-field-guide.md)
   * [다이나믹 필드 스킨 제작 방법](component-make-guide/dynamic-field-skin-guide.md)
-  * [에디터 제작 방법](component-make-guide/editor-guide.md)
 
