@@ -1,7 +1,7 @@
 # Table of contents
 
 * [소개](README.md)
-* [목차](summary.md)
+* [목차](undefined.md)
 * [시작하기](getting-started/README.md)
   * [설치하기](getting-started/installation.md)
   * [업데이트](getting-started/core-update.md)
